@@ -4,7 +4,12 @@ We wanted to develop an all-inclusive solution that:
 1. Enables Safe Mobility: Through obstacle detection and effective navigation for users.
 2. Monitors Health: Tracks heart rate to provide vital health insights for elderly users.
 3. Enables Quick Assistance: An emergency SOS button allows users to seek help immediately when needed.
-PROBLEM IT SOLVES
-Mobility Issues: Ultrasonic sensors help detect obstacles for safe navigation.
-Health Risks: Real-time heart rate monitoring helps identify health problems early.
-Emergency Situations: The SOS feature ensures users can send alerts during emergencies, reducing response time.
+
+FEATURES
+Obstacle Detection: Detects nearby obstacles using ultrasonic sensors.
+Heart Rate Monitoring: Continuously tracks vital signs with a pulse sensor.
+Emergency SOS Button: Alerts caregivers or emergency contacts when triggered.
+
+COMPONENTS
+Hardware: Ultrasonic Sensor, Pulse Sensor, SOS Button, Microcontroller (Arduino Uno)
+Software: Arduino IDE, Sensor Libraries.
